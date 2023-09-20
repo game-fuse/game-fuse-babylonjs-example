@@ -1,0 +1,20 @@
+{
+  "name": "game-fuse-endless-runner-babylonjs",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^6.20.1",
+    "@babylonjs/gui": "^6.20.1",
+    "dotenv": "^16.3.1",
+    "dotenv-expand": "^10.0.0"
+  }
+}
